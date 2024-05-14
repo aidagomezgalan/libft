@@ -1,2 +1,5 @@
-# libft
-Proyecto del campus de programación 42 Málaga
+:es: Programación de una librería en C.
+
+Ver [**subject**](libft.pdf)
+
+:gb: Programming a library in C.
